@@ -1,6 +1,6 @@
-# Manual Testing TestCases
+# Manual TestCases
 
-**This project contains sample set of test cases for manual testers to help them save time for writing manual test cases.
+*This project contains sample set of test cases for manual testers to help them save time for writing manual test cases.
 
 ## Sample Test Cases are added for the following:
 
