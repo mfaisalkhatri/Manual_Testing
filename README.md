@@ -1,23 +1,26 @@
-# TestCases for Manual Software Testing.
+# TestCases and Templates for Manual Software Testing.
 
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)][home]
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
+<img src="assets/poster.jpg" width=2000 height=1000/>
+
 ## :boom: What is it all about?
-This project contains sample set of test cases for manual testers to help them save time for writing manual test cases.
+This project contains sample set of test cases for manual testers to help them save time for writing manual test cases. It also has the templates for the Test planning and Bug bash.
 
 
 ## :golf: Why was this project created?
 It is always a tedious and boring task to write test cases, which takes most of the time of software testing. Hence, I decided to make generic test cases for the functionality majorly used in software testing so anyone can just download the copy and use it directly in their projects and save their time wasted in writing the generic test cases.
 
 
-## :bulb: Sample Test Cases are added for the following:
+## :bulb: Sample Test Cases and templates are added for the following:
 - Generic field level test cases for Textbox, Dropdown-box/Multi-Dropdownbox, Checkbox, Radio button, Submit/Save/Cancel button and Date fields,
 - Sample Test cases for Export Functionality.
 - Sample Test cases for Import Functionality.
 - Sample Test cases for Testing reports.
 - Sample Test cases for testing Mobile apps.
 - Test Planning Checklist.
+- Bug bash sheet template.
 
  
 ## :question: Need Assistance?
