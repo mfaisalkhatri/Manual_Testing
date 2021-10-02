@@ -3,7 +3,7 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)][home]
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
-<img src="assets/poster.jpg" width=2000 height=1000/>
+<img src="assets/poster.jpg" width=2000 height=500/>
 
 ## :boom: What is it all about?
 This project contains sample set of test cases for manual testers to help them save time for writing manual test cases. It also has the templates for the Test planning and Bug bash.
