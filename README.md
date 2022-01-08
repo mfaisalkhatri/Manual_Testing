@@ -2,6 +2,7 @@
 
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)][home]
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+[![HitCount](http://hits.dwyl.com/mfaisalkhatri/Manual_Testing.svg?style=flat-square)](http://hits.dwyl.com/mfaisalkhatri/Manual_Testing)
 
 <img src="assets/poster.jpg" width=2000 height=500/>
 
