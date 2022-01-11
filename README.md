@@ -29,6 +29,7 @@ It is always a tedious and boring task to write test cases, which takes most of 
 * Discuss your queries by writing to me @ mohammadfaisalkhatri@gmail.com
 * Connect me at [LinkedIn][] or [Twitter][]
 * If you find that anything is missing/have not been considered in the generic cases, then you can create a [new issue][] with required details, and I'll update the cases accordingly at the earliest.
+* Contact me for 1:1 trainings related to Test Automation/Software Testing.
 
 ## :thought_balloon: Checkout the blogs related to Testing on my [website][]
  
