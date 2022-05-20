@@ -1,4 +1,4 @@
-# TestCases and Templates for Manual Software Testing.
+# TestCases and Templates for Manual Software Testing
 
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)][home]
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
