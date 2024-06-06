@@ -25,6 +25,16 @@ It is always a tedious and boring task to write test cases, which takes most of 
 - Test Planning Checklist.
 - Bug bash sheet template.
 
+## Recommended Proxies 
+There are cases when proxies may be required to run the tests may be manually or using automation. This may happen when the software teams are working in isolation at different places. Another use case is that you need to perform the testing for a website in the region for which access is not available in your current region.
+
+Residential proxies help in keeping the user’s information safe and help in hiding the real location of the user
+It acts as a middleman between the device and the internet and keep the users safe from being tracked.
+
+[NodeMaven](https://go.nodemaven.com/automation_proxy) provides high quality proxies with industry-first filtering, super sticky sessions and best customer support.
+Try out [NodeMaven](https://go.nodemaven.com/automation_proxy) now(_Use F86 at checkout to get extra 2GB of proxy_)
+
+
 ## :question: Need Assistance?
 * Discuss your queries by writing to me @ mohammadfaisalkhatri@gmail.com
 * Connect me at [LinkedIn][] or [Twitter][]
