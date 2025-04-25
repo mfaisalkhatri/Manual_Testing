@@ -40,6 +40,15 @@ It is always a tedious and boring task to write test cases, which takes most of 
 - [A Complete Guide to Codeless Testing](https://medium.com/@iamfaisalkhatri/a-complete-guide-to-codeless-testing-2d43c8ba205c)
 
 
+## :movie_camera: Tutorial Video
+
+:pushpin: Playlist of Software Testing Tutorial Videos :point_down:
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/videoseries?si=yllnGdqnIOjvKn-e&amp;list=PLMer2TvhZIw-Qhz82h0BvWWemgO-PQQaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+:pushpin: Playlist of Software Testing Interview Preparation Videos :point_down:
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/videoseries?si=KiMl5hM55CiGV9Ey&amp;list=PLMer2TvhZIw9WWVaZM80epFfZ9aErSGHZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
 ## Recommended Proxies 
 There are cases when proxies may be required to run the tests may be manually or using automation. This may happen when the software teams are working in isolation at different places. Another use case is that you need to perform the testing for a website in the region for which access is not available in your current region.
 
