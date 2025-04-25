@@ -42,10 +42,10 @@ It is always a tedious and boring task to write test cases, which takes most of 
 
 ## :movie_camera: Tutorial Video
 
-:pushpin: Playlist of Software Testing Tutorial Videos :point_down:
+### :pushpin: Playlist of Software Testing Tutorial Videos :point_down:
 [![Watch the video](https://img.youtube.com/vi/6LcKSCiOFSo/hqdefault.jpg)](https://youtube.com/playlist?list=PLMer2TvhZIw-Qhz82h0BvWWemgO-PQQaN&si=JDe4mIbEa34eCKil)
 
-:pushpin: Playlist of Software Testing Interview Preparation Videos :point_down:
+### :pushpin: Playlist of Software Testing Interview Preparation Videos :point_down:
 [![Watch the video](https://img.youtube.com/vi/AvGsez6TS4g/hqdefault.jpg)](https://youtube.com/playlist?list=PLMer2TvhZIw9WWVaZM80epFfZ9aErSGHZ&si=8Cgyrf5uDLqLBopz)
 
 
