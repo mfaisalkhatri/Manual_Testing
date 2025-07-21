@@ -17,6 +17,7 @@ It is always a tedious and boring task to write test cases, which takes most of 
 
 ## :bulb: Sample Test Cases and templates are added for the following:
 - Generic field level test cases for Textbox, Dropdown-box/Multi-Dropdownbox, Checkbox, Radio button, Submit/Save/Cancel button and Date fields
+- Sample Test cases for API Testing
 - Sample Test cases for Export Functionality
 - Sample Test cases for Import Functionality
 - Sample Test cases for Testing reports
@@ -27,6 +28,10 @@ It is always a tedious and boring task to write test cases, which takes most of 
 
 ## :writing_hand: Blog Links
 
+- [What is Regression Testing?](https://medium.com/@iamfaisalkhatri/what-is-regression-testing-01948692d2ad)
+- [What is Sanity Testing?](https://medium.com/@iamfaisalkhatri/what-is-sanity-testing-822f5ac5a95f)
+- [What is Smoke Testing?](https://medium.com/@iamfaisalkhatri/what-is-smoke-testing-eeb0104820e8)
+- [What is End to End Testing?](https://medium.com/@iamfaisalkhatri/what-is-end-to-end-testing-2c65b0e85ff1)
 - [Exploratory Testing](https://medium.com/@iamfaisalkhatri/exploratory-testing-9a17653739d)
 - [A Complete Guide To Web Testing - With Best Practices](https://medium.com/@iamfaisalkhatri/a-complete-guide-web-testing-748b34a91e6e)
 - [Practical Guide to Mobile Testing [With Examples]](https://medium.com/@iamfaisalkhatri/guide-to-mobile-testing-d0dd2d9b59f1)
@@ -38,7 +43,8 @@ It is always a tedious and boring task to write test cases, which takes most of 
 - [What is a Bug Bash?](https://medium.com/@iamfaisalkhatri/what-is-a-bug-bash-c8ac3fd81661)
 - [Transition from Manual to Automation Testing](https://medium.com/@iamfaisalkhatri/transition-from-manual-to-automation-testing-4b5c4acd9286)
 - [A Complete Guide to Codeless Testing](https://medium.com/@iamfaisalkhatri/a-complete-guide-to-codeless-testing-2d43c8ba205c)
-
+- [What is Continuous Testing?](https://medium.com/@iamfaisalkhatri/what-is-continuous-testing-lambdatest-bd2c464b414c)
+- [Top 10 GitHub Repositories for Software Testers!!](https://medium.com/@iamfaisalkhatri/top-10-github-repositories-for-software-testers-4db66106ed18)
 
 ## :movie_camera: Tutorial Video
 
@@ -64,5 +70,6 @@ Try out [NodeMaven](https://go.nodemaven.com/automation_proxy) now(_Use F86 at c
   OR ping me on any of the social media sites using the below link:
     - [Linktree](https://linktr.ee/faisalkhatri)
 * Contact me for 1:1 trainings related to Test Automation/Software Testing
+* Contact me for Freelance project for Automation/Manual Testing
 
 ### :bookmark: Checkout videos related to Software Testing and Test automation tools on [Testing Talks with Faisal Khatri](https://www.youtube.com/@faisalkhatriqa)
