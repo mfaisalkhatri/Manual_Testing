@@ -1,10 +1,7 @@
 # TestCases and Templates for Manual Software Testing.
-
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/mfaisalkhatri/Manual_Testing)
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
 <img src="assets/poster.jpg" width=2000 height=500/>
-
 
 ## Don't forget to give a :star: to make the project popular. 
 
@@ -33,6 +30,10 @@ It is always a tedious and boring task to write test cases, which takes most of 
 - [What is Smoke Testing?](https://medium.com/@iamfaisalkhatri/what-is-smoke-testing-eeb0104820e8)
 - [What is End to End Testing?](https://medium.com/@iamfaisalkhatri/what-is-end-to-end-testing-2c65b0e85ff1)
 - [Exploratory Testing](https://medium.com/@iamfaisalkhatri/exploratory-testing-9a17653739d)
+- [Sanity Testing Vs Regression Testing](https://medium.com/@iamfaisalkhatri/sanity-testing-vs-regression-testing-f9f05407a2b6)
+- [Smoke Testing Vs Regression Testing](https://medium.com/@iamfaisalkhatri/smoke-testing-vs-regression-testing-1d93e153ae0a)
+- [Regression Testing Vs Retesting](https://medium.com/@iamfaisalkhatri/regression-testing-vs-retesting-1033ea94f3bb)
+- [Smoke Testing Vs Sanity Testing](https://medium.com/@iamfaisalkhatri/smoke-testing-vs-sanity-testing-eb1e0ba96453)
 - [A Complete Guide To Web Testing - With Best Practices](https://medium.com/@iamfaisalkhatri/a-complete-guide-web-testing-748b34a91e6e)
 - [Practical Guide to Mobile Testing [With Examples]](https://medium.com/@iamfaisalkhatri/guide-to-mobile-testing-d0dd2d9b59f1)
 - [Best Examples of Functional Test Cases](https://medium.com/@iamfaisalkhatri/best-examples-of-functional-test-cases-agilitest-blog-424260298b5)
